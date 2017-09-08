@@ -20,8 +20,6 @@ public class Hello
 		}
 		System.out.println("Outside Main block");
 	    System.out.println("Exited from Program");
-	    System.out.println("///////////////////////////");
-	    
-	    
+	    System.out.println("///////////////////////////");	    
 	}
 }
